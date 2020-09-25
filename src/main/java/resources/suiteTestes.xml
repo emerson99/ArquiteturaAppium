@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name="Suite1" parallel="false" >
+    <test name="AppSampleTests">
+        <classes>
+            <class name="org.pratica.Tests.AppSampleTests"/>
+        </classes>
+    </test>
+</suite>
